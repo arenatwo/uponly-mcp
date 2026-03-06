@@ -23,7 +23,16 @@
     "tsx": "^4.19.4",
     "typescript": "^5.9.3"
   },
-  "keywords": ["mcp", "uponly", "football", "predictions", "ai-agent"],
+  "keywords": ["mcp", "uponly", "football", "predictions", "ai-agent", "model-context-protocol", "claude"],
   "license": "MIT",
-  "files": ["dist", "README.md"]
+  "author": "Arena Two <dev@arenatwo.com> (https://arenatwo.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arenatwo/uponly-mcp.git"
+  },
+  "homepage": "https://uponly.arenatwo.com",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": ["dist", "README.md", "LICENSE"]
 }
