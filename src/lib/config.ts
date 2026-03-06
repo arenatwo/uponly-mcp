@@ -15,11 +15,11 @@ export const config = {
   },
   season: optional("SEASON_ID", "season_24"),
   firebase: {
-    apiKey: optional("FIREBASE_API_KEY", "AIzaSyAZ7iBZ4VzVfnkJbGMaQ_oFGfBMOvNNvkI"),
+    apiKey: optional("FIREBASE_API_KEY", "AIzaSyDy_srjaH-dV7TSkbhtFSQPHhShYGnv1ho"),
     authDomain: optional("FIREBASE_AUTH_DOMAIN", "arenatwocom.firebaseapp.com"),
     projectId: optional("FIREBASE_PROJECT_ID", "arenatwocom"),
     storageBucket: optional("FIREBASE_STORAGE_BUCKET", "arenatwocom.firebasestorage.app"),
-    messagingSenderId: optional("FIREBASE_MESSAGING_SENDER_ID", "792839837498"),
-    appId: optional("FIREBASE_APP_ID", "1:792839837498:web:73b44c3c3e72c1f2adc8f1"),
+    messagingSenderId: optional("FIREBASE_MESSAGING_SENDER_ID", "1074437994515"),
+    appId: optional("FIREBASE_APP_ID", "1:1074437994515:web:dd65e1247167eff5e927e6"),
   },
 };
